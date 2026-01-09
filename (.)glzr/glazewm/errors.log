@@ -1,0 +1,50 @@
+[2m2025-03-16T11:55:35.357484Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-03-16T11:55:40.492479Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-08-04T11:17:09.942082Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:17.330613Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:18.310601Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:20.647898Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:21.321463Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:21.508533Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:21.671332Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:21.859852Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.035375Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.200055Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.389072Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.580278Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.661102Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:22.941600Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:23.085508Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:53.425576Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:54.055873Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:54.383604Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:54.573539Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:54.744161Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:54.919947Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:55.113196Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:55.296053Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:17:55.478307Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-04T11:18:00.704845Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2026-01-01T11:19:51.600712Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-01-01T11:20:51.117129Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-01-01T11:21:43.490805Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-01-01T11:21:51.506332Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 135 column 15
+[2m2026-01-01T11:24:33.862844Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 134 column 15
+[2m2026-01-01T11:28:41.080716Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 134 column 15
+[2m2026-01-01T11:32:07.362007Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: unrecognized subcommand
+ at line 134 column 15
+[2m2026-01-01T11:32:45.085817Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 136 column 7
+[2m2026-01-01T11:51:33.704493Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].match: invalid type: map, expected a sequence at line 136 column 7
+[2m2026-01-01T11:55:12.264136Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0].commands: invalid type: string "ignore", expected a sequence at line 134 column 15
+[2m2026-01-01T11:55:30.352284Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_rules[0]: missing field `match` at line 134 column 5
+[2m2026-01-09T09:22:20.502120Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No common ancestor between containers.
