@@ -84,7 +84,7 @@ window_effects:
   # Visual effects to apply to non-focused windows.
   other_windows:
     border:
-      enabled: true
+      enabled: false
       color: '#a1a1a1'
     hide_title_bar:
       enabled: false
@@ -302,5 +302,6 @@ keybindings:
     bindings: ['alt+shift+8']
   - commands: ['move --workspace 9', 'focus --workspace 9']
     bindings: ['alt+shift+9']
+
 
 
