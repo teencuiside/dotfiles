@@ -2,7 +2,7 @@ general:
   # Commands to run when the WM has started. This is useful for running a
   # script or launching another application.
   # Example: The below command launches Zebar.
-  startup_commands: ['shell-exec C:\Users\User\.glzr\glazewm\gat-gwm.exe']
+  startup_commands: ['shell-exec C:\Users\death\.glzr\glazewm\gat-gwm.exe']
 
   # Commands to run just before the WM is shutdown.
   # Example: The below command kills Zebar.
@@ -135,6 +135,7 @@ window_rules:
     match:
       # Ignores any Zebar windows.
       - window_process: { equals: 'vlc' }
+      - window_process: { equals: 'Walldo' }
 
 
 binding_modes:
@@ -218,19 +219,19 @@ keybindings:
 
   # Minimize focused window.
   - commands: ['toggle-minimized']
-    bindings: ['alt+q']
+    bindings: ['alt+shift+q']
 
   # Close focused window.
   - commands: ['close']
-    bindings: ['alt+shift+q']
+    bindings: ['ctrl+alt+q']
 
   # Kill GlazeWM process safely.
   - commands: ['wm-exit']
     bindings: ['alt+shift+e']
 
   # Re-evaluate configuration file.
-  - commands: ['wm-reload-config']
-    bindings: ['alt+shift+r']
+  #- commands: ['wm-reload-config']
+  #  bindings: ['alt+shift+r']
 
   # Redraw all windows.
   - commands: ['wm-redraw']
@@ -239,8 +240,8 @@ keybindings:
   # Launch CMD terminal. Alternatively, use `shell-exec wt` or
   # `shell-exec %ProgramFiles%/Git/git-bash.exe` to start Windows
   # Terminal and Git Bash respectively.
-  #- commands: ['shell-exec cmd']
-  #  bindings: ['alt+enter']
+  - commands: ['shell-exec C:\Portable Apps\walldo-windows-amd64\Walldo.exe']
+    bindings: ['ctrl+0']
 
   # Focus the next/previous active workspace defined in `workspaces` config.
   - commands: ['focus --next-active-workspace']
@@ -302,6 +303,3 @@ keybindings:
     bindings: ['alt+shift+8']
   - commands: ['move --workspace 9', 'focus --workspace 9']
     bindings: ['alt+shift+9']
-
-
-
